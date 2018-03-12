@@ -3,8 +3,8 @@ Projekt zespolowy II PWSIP Grupa 3
 
 Temat projektu: komunikator C# WPF
 
-logowanie
-rejestracja
-lista uzytkownikow / kontakty
-wiadomosci
-archiwum 
+- Utworzenie konta
+- Logowanie do aplikacji.
+- Dodawanie do znajomych.
+- Wysylanie wiadomosci poprzez socket
+- archiwizacja wiadomosci

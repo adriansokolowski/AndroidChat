@@ -5,6 +5,10 @@ Temat projektu: System komunikacji między użytkownikami na platformie Android.
 
 Cel projektu: Szybka komunikacja tekstowa pomiędzy użytkownikami posiadającymi zarejestrowane konto w systemie.
 
+Opis biznesowy:
+
+Darmowa aplikacja open source na system Android skierowana dla użytkowników w każdym wieku. Aby korzystać z aplikacji niezbędne jest urządzenie z wbudowanym systemem operacyjnym Android. Można będzie pobrać ją za darmo na stronie internetowej.
+
 Założenia:
 
 - Aplikacja ma opierać się na tzw. socketach umożliwiających komunikację między dwoma urządzeniami

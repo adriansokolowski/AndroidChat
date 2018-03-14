@@ -26,6 +26,6 @@ Darmowa aplikacja open source na system Android skierowana dla użytkowników w 
 - użytkownik ma mieć możliwość konfigurowania wyglądu interfejsu z dostępnych opcji
 - Wiadomości mają być archiwizowane, przechowywane w bazie danych
 
-Ikona aplikacji: 
+## Ikona aplikacji: 
 
 ![alt text](https://i.imgur.com/K0brVnz.png)

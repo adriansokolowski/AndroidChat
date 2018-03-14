@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/14i01g9.png"></p>
+
 # PWSIP_2018_PZ2_GR3
 Projekt zespolowy II PWSIP Grupa 3
 
@@ -23,3 +25,7 @@ Darmowa aplikacja open source na system Android skierowana dla użytkowników w 
 - Otrzymanie nowej wiadomości wraz powiadomieniem w formie dźwięku - jeśli użytkownik jest zalogowany ale nie korzysta w tej chwili z aplikacji
 - użytkownik ma mieć możliwość konfigurowania wyglądu interfejsu z dostępnych opcji
 - Wiadomości mają być archiwizowane, przechowywane w bazie danych
+
+Ikona aplikacji: 
+
+![alt text](https://i.imgur.com/K0brVnz.png)

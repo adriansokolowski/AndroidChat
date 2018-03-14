@@ -1,15 +1,15 @@
 # PWSIP_2018_PZ2_GR3
 Projekt zespolowy II PWSIP Grupa 3
 
-Temat projektu: System komunikacji między użytkownikami na platformie Android.
+**Temat projektu:** System komunikacji między użytkownikami na platformie Android.
 
-Cel projektu: Szybka komunikacja tekstowa pomiędzy użytkownikami posiadającymi zarejestrowane konto w systemie.
+**Cel projektu:** Szybka komunikacja tekstowa pomiędzy użytkownikami posiadającymi zarejestrowane konto w systemie.
 
-Opis biznesowy:
+## Opis biznesowy:
 
 Darmowa aplikacja open source na system Android skierowana dla użytkowników w każdym wieku. Aby korzystać z aplikacji niezbędne jest urządzenie z wbudowanym systemem operacyjnym Android. Można będzie pobrać ją za darmo na stronie internetowej.
 
-Założenia:
+## Założenia:
 
 - Aplikacja ma opierać się na tzw. socketach umożliwiających komunikację między dwoma urządzeniami
 - Aplikacja musi umożliwiać użytkownikom rejestrację oraz logowanie do systemu
@@ -17,7 +17,7 @@ Założenia:
 - Aplikacja musi umożliwiać komunikację tekstową między użytkownikami (założenie główne)
 - Wyszukiwarka dzięki której będzie można znależć użytkownika po loginie
 
-Przyjęte rozwiązania funkcjonalności i interfejsu:
+## Przyjęte rozwiązania funkcjonalności i interfejsu:
 
 - Aplikacja ma posiadać minimalistyczne, przyjazne użytkownikom menu
 - Otrzymanie nowej wiadomości wraz powiadomieniem w formie dźwięku - jeśli użytkownik jest zalogowany ale nie korzysta w tej chwili z aplikacji

@@ -29,3 +29,4 @@ Darmowa aplikacja open source na system Android skierowana dla użytkowników w 
 ## Ikona aplikacji: 
 
 ![alt text](https://i.imgur.com/K0brVnz.png)
+![alt text](https://i.imgur.com/oSwgioi.png)
